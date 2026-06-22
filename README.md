@@ -25,7 +25,7 @@ Tracks heavy engineering and commercial metadata parameters across the asset lif
 *   **FIDIC Clause Field**: Maps deliverables to contractual categories (e.g., *Red Book*, *Yellow Book*) [🔍].
 
 📌 
-![SharePoint MDR CDE Schema](documentation/01_sharepoint_schemas.png)
+![SharePoint MDR CDE Schema](Documentation/01_sharepoint_schemas.png)
 
 ---
 
@@ -93,7 +93,7 @@ The engine automatically monitors incoming contractor requests and matches them 
 
 📌 
 
-![Power Automate Naming Engine Logic](documentation/02_power_automate_switch.png)
+![Power Automate Naming Engine Logic](Documentation/02_power_automate_switch.png)
 
 ---
 
@@ -106,4 +106,4 @@ The business intelligence layer connects directly to the secure CDE site collect
 *   **NCR Severity Matrix**: Cross-references outstanding Non-Conformance Reports by severity tier (Critical, Major, Minor), painting impending deadlines or safety overrides in **Crimson Red**.
 
 📌 *Insert your MDR, NCR, and IMS Audit Readiness canvas screenshot right here:*
-![Power BI Project Controls Dashboard](documentation/03_power_bi_dashboard.png)
+![Power BI Project Controls Dashboard](Documentation/03_power_bi_dashboard.png)
