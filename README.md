@@ -25,6 +25,7 @@ Tracks heavy engineering and commercial metadata parameters across the asset lif
 *   **FIDIC Clause Field**: Maps deliverables to contractual categories (e.g., *Red Book*, *Yellow Book*) [🔍].
 
 📌 
+
 ![SharePoint MDR CDE Schema](Documentation/01_sharepoint_schemas.png)
 
 ---
