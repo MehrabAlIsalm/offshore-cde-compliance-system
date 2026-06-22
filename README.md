@@ -24,7 +24,7 @@ Tracks heavy engineering and commercial metadata parameters across the asset lif
 *   **MWS Status**: Marine Warranty Survey clearance tracking gate [🔍].
 *   **FIDIC Clause Field**: Maps deliverables to contractual categories (e.g., *Red Book*, *Yellow Book*) [🔍].
 
-📌 <img width="310" height="192" alt="01_sharepoint_schemas" src="https://github.com/user-attachments/assets/f0a78ccd-bbb0-47b5-a043-ec747896d94f" />
+📌 
 ![SharePoint MDR CDE Schema](documentation/01_sharepoint_schemas.png)
 
 ---
@@ -91,7 +91,7 @@ The engine automatically monitors incoming contractor requests and matches them 
 *   **Contract Deadline Gates**: Triggers automated alerts when a variation request or claim approach matches a FIDIC time-bar threshold (e.g., the strict 28-day notice rule).
 *   **Approval Escalation Paths**: Dynamically escalates claims to the commercial lead or contract manager depending on the contract type selected.
 
-📌 <img width="960" height="446" alt="02_power_automate_switch" src="https://github.com/user-attachments/assets/e92feea5-f42a-40a1-8e4e-98c9b223a48c" />
+📌 
 
 ![Power Automate Naming Engine Logic](documentation/02_power_automate_switch.png)
 
